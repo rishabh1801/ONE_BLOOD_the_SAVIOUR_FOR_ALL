@@ -779,7 +779,7 @@ html {
   display: none;
   position: fixed;
   bottom: 20px;
-  right: 30px;
+  right: 60px;
   z-index: 99;
   border: none;
   outline: none;
@@ -1032,7 +1032,7 @@ html {
 .content {
   background: white;
   height: 100px;
-  padding-bottom: 10px;
+  padding-bottom: 36px;
   padding-top: 20px;
   text-align: center;
 }
@@ -1275,6 +1275,10 @@ footer {
   .span-1-of-3-customer {
     width: 100%;
   }
+  .footer-content p {
+  margin-left: -26rem;}
+  .footer-content h3 {
+    margin-left: -26rem;}
 }
 .customer-box {
   padding: 1%;
