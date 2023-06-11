@@ -175,7 +175,11 @@ main {
 }
 
 
+a{
 
+    text-decoration: none;
+    color: #000;
+}
 /*Footer*/
 .sec {
     border-top-left-radius: 40px;
